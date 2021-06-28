@@ -1,7 +1,11 @@
-  # The Nightmare Before Christmas
+![alt text](https://github.com/makav2/Tim-Burton-films/blob/main/img/nightmare-christmas.png "Github img")
+  
+# The Nightmare Before Christmas
 
-  ## 1993
+## 1993
 
-  ### Genre : animation, fantastique, musique, gothique
+### Genre : animation, fantastique, musique, gothique
 
-  ![alt text](https://github.com/makav2/Tim-Burton-films/blob/main/img/nightmare-christmas.png "Github img")
+### Réalisé par : Henry Selick
+
+### acteurs : Ed Ivory - Chris Sarandon - Catherine O'Hara
