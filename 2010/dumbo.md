@@ -4,5 +4,5 @@
 
   ### Genre : fantastique, aventure
 
-  ![alt text](img/dumbo.jpg "Github img")
+  ![alt text](https://github.com/makav2/Tim-Burton-films/blob/main/img/dumbo.jpg "Github img")
 
