@@ -1,8 +1,11 @@
-  # Dumbo
+![alt text](https://github.com/makav2/Tim-Burton-films/blob/main/img/dumbo.jpg "Github img")
 
-  ## 2019
+# Dumbo
 
-  ### Genre : fantastique, aventure
+## 2019
 
-  ![alt text](https://github.com/makav2/Tim-Burton-films/blob/main/img/dumbo.jpg "Github img")
+### Genre : fantastique, aventure
 
+### Réalisé par : Tim Burton
+
+### Acteurs : Colin Farrell - Eva Green - Michael Keaton
