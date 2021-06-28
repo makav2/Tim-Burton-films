@@ -8,4 +8,4 @@
 
 ### Réalisé par : Henry Selick
 
-### acteurs : Ed Ivory - Chris Sarandon - Catherine O'Hara
+### Acteurs : Ed Ivory - Chris Sarandon - Catherine O'Hara
