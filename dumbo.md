@@ -4,5 +4,5 @@
 
   ### Genre : fantastique, aventure
 
-  ![alt text](img/nightmare-christmas.png "Github img")
+  ![alt text](img/dumbo.jpg "Github img")
 
