@@ -4,5 +4,5 @@
 
   ### Genre : fantastique, aventure
 
-  ![alt text](img/dumbo.jpg "Github img")
+  ![alt text](img/alice_cat.jpeg "Github img")
 
